@@ -55,7 +55,6 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 </p>
 
 ### 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdullah-tawsif&show_icons=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif" />
