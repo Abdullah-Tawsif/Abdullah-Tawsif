@@ -26,7 +26,9 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-tawsif-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;
+  
 <a href="https://codeforces.com/profile/Abdullah_Tawsif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/></a>&nbsp;
+
 <a href="https://www.leetcode.com/Abdullah_Tawsif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
 
