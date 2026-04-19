@@ -6,7 +6,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 </h3>
 
 
-### 🚀 About Me
+### About Me
 -  I’m currently working on **[Neurona](https://github.com/Abdullah-Tawsif/NEURONA.git)**
 -  I’m currently learning **Python, SQL, and Machine Learning fundamentals**
 -  My goal is to become a **Machine Learning Engineer**
@@ -14,7 +14,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 
 ---
 
-### 🧠 Learning Focus
+### Learning Focus
 - Python for Data Science  
 - SQL for data handling  
 - Machine Learning algorithms (Supervised & Unsupervised)  
@@ -22,7 +22,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-tawsif-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;
@@ -30,7 +30,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 <a href="https://www.leetcode.com/Abdullah_Tawsif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
 
-### 🧠 Languages
+### Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30"/>
@@ -44,7 +44,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/>
 </p>
 
-### ⚙️ Tools & Databases
+### Tools & Databases
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30"/>
@@ -54,7 +54,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30"/>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abdullah-tawsif&show_icons=true" />
     <td>
