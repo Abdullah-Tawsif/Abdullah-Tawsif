@@ -71,5 +71,6 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 <br/>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif&" alt="abdullah-tawsif")" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif&" alt="abdullah-tawsif" />
 </p>
+
