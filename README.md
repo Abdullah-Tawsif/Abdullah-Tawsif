@@ -1,5 +1,5 @@
 ![logo](https://github.com/Abdullah-Tawsif/Abdullah-Tawsif/blob/main/Abdullah%20tawsif.png)
-<h1 align="center">Hi 👋, I'm S.M. Abdullah Tawsif</h1>
+<h1 align="center">Hi , I'm S.M. Abdullah Tawsif</h1>
 
 <h3 align="center">
 Aspiring Machine Learning Engineer | Exploring AI through code, math, and real projects
@@ -54,13 +54,22 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30"/>
 </p>
 
-### GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abdullah-tawsif&show_icons=true" />
+<h2 align="left"> GitHub Stats</h2>
+
+<table>
+  <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif" />
-      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=abdullah-tawsif&show_icons=true" />
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-tawsif&layout=compact" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif" />
+</p>
