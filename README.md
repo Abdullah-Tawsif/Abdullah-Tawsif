@@ -7,7 +7,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 
 
 ### About Me
--  I’m currently working on **[Neurona](https://github.com/Abdullah-Tawsif/NEURONA.git)**
+-  I’m currently working on **[Neurona]([https://github.com/Abdullah-Tawsif/NEURONA.git](https://github.com/Abdullah-Tawsif/NEURONA.git))**
 -  I’m currently learning **Python, SQL, and Machine Learning fundamentals**
 -  My goal is to become a **Machine Learning Engineer**
 -  I enjoy turning math and data into real-world AI systems
