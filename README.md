@@ -57,17 +57,6 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 
 <h2 align="left"> GitHub Stats</h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abdullah-tawsif&show_icons=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-tawsif&layout=compact" />
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <p align="center">
