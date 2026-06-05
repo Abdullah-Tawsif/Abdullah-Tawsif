@@ -60,6 +60,6 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-tawsif&" alt="abdullah-tawsif" />
+  <img src="https://readme-stats-github.pages.dev/api?username=Abdullah-Tawsif&theme=dark" />
 </p>
 
