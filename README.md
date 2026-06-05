@@ -5,27 +5,25 @@
 Aspiring Machine Learning Engineer | Exploring AI through code, math, and real projects
 </h3>
 
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=Abdullah-Tawsif&style=flat-square)
+
+</div>
+
 
 ### About Me
 -  I’m currently working on **[NEURONA](https://github.com/Abdullah-Tawsif/NEURONA.git)**
 -  I’m currently learning **Python, SQL, and Machine Learning fundamentals**
--  My goal is to become a **Machine Learning Engineer**
--  I enjoy turning math and data into real-world AI systems
-
----
-
-### Learning Focus
-- Python for Data Science  
-- SQL for data handling  
-- Machine Learning algorithms (Supervised & Unsupervised)  
-- Problem solving & foundational math  
+-  Curently focused on **Machine Learning algorithms (Supervised & Unsupervised)**
+-  Enjoy turning math and data into real-world AI systems
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdullah-tawsif-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdullah-tawsif-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;      
 <a href="https://codeforces.com/profile/Abdullah_Tawsif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/></a>&nbsp;
 <a href="https://www.leetcode.com/Abdullah_Tawsif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
@@ -55,9 +53,10 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 </p>
 
 
-<h2 align="left"> GitHub Stats</h2>
 
-<br/>
+### GitHub Stats
+
+
 
 <p align="center">
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Abdullah-Tawsif&theme=dark" />
