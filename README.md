@@ -1,5 +1,5 @@
 ![logo](https://github.com/Abdullah-Tawsif/Abdullah-Tawsif/blob/main/Abdullah%20tawsif.png)
-<h1 align="center">Hi , I'm S.M. Abdullah Tawsif</h1>
+<h1 align="center">Glad to have you here!👋</h1>
 
 <h3 align="center">
 Aspiring Machine Learning Engineer | Exploring AI through code, math, and real projects
