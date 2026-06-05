@@ -60,6 +60,15 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 <br/>
 
 <p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Abdullah-Tawsif&theme=dark" />
   <img src="https://readme-stats-github.pages.dev/api?username=Abdullah-Tawsif&theme=dark" />
+  <img src="https://readme-stats-github.pages.dev/api/repo?username=Abdullah-Tawsif&repo=Abdullah-Tawsif&theme=dark" />
+
+</p>
+
+
+
+<p align="center">
+<img src= "https://readme-stats-github.pages.dev/api/typing?lines=Explore%20my%20repositories%E2%80%94you%20might%20find%20gems!&theme=dark&color=%23000000&particleColor=%23a2a0a0&background=%23000000"/>
 </p>
 
