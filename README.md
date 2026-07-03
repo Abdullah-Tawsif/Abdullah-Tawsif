@@ -57,7 +57,7 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdullah-Tawsif&theme=dark-smoky" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-Tawsif&theme=shadow-brown" alt="GitHub Streak" />
 </p>
 
 <p align="center">
