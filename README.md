@@ -15,8 +15,8 @@ Aspiring Machine Learning Engineer | Exploring AI through code, math, and real p
 ### About Me
 -  I’m currently working on **[NEURONA](https://github.com/Abdullah-Tawsif/NEURONA.git)**
 -  I’m currently learning **Machine Learning** with Python, focusing on data analysis, preprocessing and model development.
--  Exploring ** NumPy, Pandas, and Scikit-learn**
--  Enjoy turning math and data into real-world AI systems
+-  Exploring ** NumPy, Pandas, and Scikit-learn**.
+-  Practicing **Supervised & Unsupervised Learning** through hands-on projects and **Kaggle datasets**.
 
 ---
 
